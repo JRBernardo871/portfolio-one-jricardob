@@ -1,1 +1,1 @@
-criaçã das pastas do projeto.
+criação das pastas do projeto.
